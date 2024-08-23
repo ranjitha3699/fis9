@@ -1,0 +1,2 @@
+a='sakthi'
+print(a)
